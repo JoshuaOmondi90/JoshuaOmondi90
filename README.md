@@ -1,9 +1,9 @@
 <img src="https://logosbynick.com/wp-content/uploads/2022/07/Animation.gif" width="40%" align="right">
-<h1 align="center">Hi 👋, I'm Joshua Omondi</h1>
-<h3 align="center">A passionate frontend developer from Nairobi Kenya</h3>
+<h1 align="center"> Hi 👋, I'm Joshua Omondi</h1>
+<h3 align="center">A passionate frontend developer from Nairobi, Kenya</h3>
 
 
-- 📫 How to reach me **joshuahochieng@gmail.com**
+📫 How to reach me **joshuahochieng@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
