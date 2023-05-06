@@ -1,11 +1,14 @@
 <img src="https://logosbynick.com/wp-content/uploads/2022/07/Animation.gif" width="40%" align="right">
 <h1 align="center"> Hi 👋, I'm Joshua Omondi</h1>
-<h3 align="center">A passionate frontend developer from Nairobi, Kenya</h3>
+<p align="center">I am a passionate Frontend and Software developer student from Nairobi, Kenya.
+<br>I love learning new programming languages and technologies.</p>
+
 
 
 📫 How to reach me **joshuahochieng@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/joshuah_ochieng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joshuah_ochieng" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/joshuah_omondi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshuah_omondi" height="30" width="40" /></a>
