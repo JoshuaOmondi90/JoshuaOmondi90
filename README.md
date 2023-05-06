@@ -1,4 +1,4 @@
-<img src="https://logosbynick.com/wp-content/uploads/2022/07/Animation.gif" width="400" height="300">
+<img src="https://logosbynick.com/wp-content/uploads/2022/07/Animation.gif" width="40%" align="right">
 <h1 align="center">Hi 👋, I'm Joshua Omondi</h1>
 <h3 align="center">A passionate frontend developer from Nairobi Kenya</h3>
 
