@@ -1,4 +1,4 @@
-<img src="https://logosbynick.com/wp-content/uploads/2022/07/Animation.gif" width="40%" align="right">
+<img src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg" width="40%" align="right">
 <h1 align="center"> Hi 👋, I'm Joshua Omondi</h1>
 <p align="center">I am a passionate Frontend and Software developer student from Nairobi, Kenya.
 <br>I love learning new programming languages and technologies.</p>
