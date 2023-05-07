@@ -1,6 +1,6 @@
 <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="40%" img align="right">
 <h1 align="center">Hi 👋, I'm Joshua Omondi</h1>
-<p align="center">Am a passionate Frontend and Software developer from Nairobi, Kenya</p>
+<h5 align="center">Am a passionate Frontend and Software developer from Nairobi, Kenya</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuaomondi90&label=Profile%20views&color=0e75b6&style=flat" alt="joshuaomondi90" /> </p>
 
