@@ -1,20 +1,22 @@
-<img src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg" width="40%" align="center">
+<img src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg" width="40%" align="right">
 <h1 align="center">Hi 👋, I'm Joshua Omondi</h1>
 <p align="center">Am a passionate Frontend and Software developer from Nairobi, Kenya</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuaomondi90&label=Profile%20views&color=0e75b6&style=flat" alt="joshuaomondi90" /> </p>
 
-- 🔭 I’m currently working on **My portfolio project to showcase my skills and expirience**
 
-- 🌱 I’m currently learning **Software Development**
+🔭 I’m currently working on **My portfolio project to showcase my skills and expirience**
 
-- 👯 I’m looking to collaborate on **Software development roles,apprenticeship**
+🌱 I’m currently learning **Software Development**
 
-- 👨‍💻 All of my projects are available at [joshuahsmith.com](joshuahsmith.com)
+👯 I’m looking to collaborate on **Software development roles,apprenticeship**
 
-- 💬 Ask me about **ReactJs, NextJs**
+👨‍💻 All of my projects are available at [joshuahsmith.com](joshuahsmith.com)
 
-- 📫 How to reach me **joshuahochieng@gmail.com**
+💬 Ask me about **ReactJs, NextJs**
+
+
+📫 How to reach me **joshuahochieng@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
