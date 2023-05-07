@@ -1,4 +1,4 @@
-<img src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg" width="40%" align="right">
+<img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="40%" img align="right">
 <h1 align="center">Hi 👋, I'm Joshua Omondi</h1>
 <p align="center">Am a passionate Frontend and Software developer from Nairobi, Kenya</p>
 
