@@ -1,22 +1,18 @@
 <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="40%" img align="right">
-<h1 align="center">Hi 👋, I'm Joshua Omondi</h1>
-<h5 align="center">Am a passionate Frontend and Software developer from Nairobi, Kenya</h5>
-
+<h1 align="center">Hi, I'm Joshua Omondi👋</h1>
+<h6 align="center">A passionate front end developer and Software developer from Nairobi, Kenya with 2 years of experience in a startup environment developing high-performance websites and mobile applications for multiple clients using HTML, CSS, and JavaScript.</h6>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuaomondi90&label=Profile%20views&color=0e75b6&style=flat" alt="joshuaomondi90" /> </p>
 
 
 🔭 I’m currently working on **My portfolio project to showcase my skills and expirience**
 
-🌱 I’m currently learning **Software Development**
+🌱 I’m currently learning **backend Technology that is Python and its framework Django**
 
 👯 I’m looking to collaborate on **Software development roles,apprenticeship**
 
 👨‍💻 All of my projects are available at [joshuahsmith.com](joshuahsmith.com)
 
-💬 Ask me about **ReactJs, NextJs**
-
-
-📫 How to reach me **joshuahochieng@gmail.com**
+💬 Ask me about **ReactJs, NextJs**📫 How to reach me **joshuahochieng@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
