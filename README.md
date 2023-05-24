@@ -1,26 +1,32 @@
 <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="40%" img align="right">
 <h1 align="center">Hi, I'm Joshua Omondi👋</h1>
-<h6 align="center">A passionate front end and Software developer from Nairobi, Kenya with 2 years of experience in a startup environment developing high-performance websites and mobile applications for multiple clients using HTML, CSS, and JavaScript.</h6>
+<h6 align="center">A passionate front end and Software developer from Nairobi, Kenya with 2 years of experience in a startup environment developing high-performance websites and mobile applications for multiple clients using HTML, CSS and JavaScript.</h6>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuaomondi90&label=Profile%20views&color=0e75b6&style=flat" alt="joshuaomondi90" /> </p>
 
 
-🔭 I’m currently working on **My portfolio project to showcase my skills and expirience**
+🔭 I’m currently working on **My portfolio project to showcase my Skills and Experience as a Dev**
 
-🌱 I’m currently learning **backend Technology that is Python and its framework Django**
+🌱 I’m currently learning **backend Technology i.e Python and its frameworks Django, Flask**
 
-👯 I’m looking to collaborate on **Software development roles,apprenticeship**
+👯 I’m looking to collaborate on **Software development roles,apprenticeship,internship**
 
-👨‍💻 All of my projects are available at [joshuahsmith.com](joshuahsmith.com)
+👨‍💻 All of my projects will be available at [joshuahsmith.com](joshuahsmith.com)
 
-💬 Ask me about **ReactJs, NextJs**📫 How to reach me **joshuahochieng@gmail.com**
+💬 Ask me about **ReactJs, Bootstrap, Solidity, NFT**
+
+📫 How to reach me **joshuahochieng@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/joshuah_ochieng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joshuah_ochieng" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/ joshuaomondi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/joshuaomondi" height="30" width="40" /></a>
-<a href="https://fb.com/joshua smith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="joshua smith" height="30" width="40" /></a>
+<p align="left"><a href="https://twitter.com/joshuah_ochieng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joshuah_ochieng" height="30" width="40"/> 
+<a href="https://linkedin.com/in/www.linkedin.com/in/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/joshuaomondi" height="30" width="40" /></a>
+<a href="https://fb.com/Joshua Smith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Joshua Smith" height="30" width="40" /></a>
 <a href="https://instagram.com/joshuah_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joshuah_official" height="30" width="40" /></a>
 </p>
+
+<h3 align="left">Support:</h3>
+
+Love my content and want to show appreciation? Why not buy me a coffee to fuel my creative engine? Your support means the world to me! 😊
+
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H5LJW38)
 
