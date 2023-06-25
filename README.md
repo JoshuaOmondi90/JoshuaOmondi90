@@ -1,18 +1,18 @@
-<img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"><p align="right" height="40" width="40"></p>
+<img src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif"><p align="center" height="50" width="50"></p>
 <h1 align="center">Hi, I'm Joshua Omondi👋</h1>
 <h6 align="center">A passionate front end and Software developer from Nairobi, Kenya with 2 years of experience in a startup environment developing high-performance websites and mobile applications for multiple clients using HTML, CSS and JavaScript.</h6>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuaomondi90&label=Profile%20views&color=0e75b6&style=flat" alt="joshuaomondi90" /> </p>
 
 
-🔭 I’m currently working on **My portfolio project to showcase my Skills and Experience as a Dev**
+🔭 I’m currently working on my portfolio project to showcase my Skills,Projects and Experience as a developer.
 
-🌱 I’m currently learning **backend Technology i.e Python and its frameworks Django, Flask**
+🌱 I’m currently learning backend Technology i.e Python and its framework Django.
 
-👯 I’m looking to collaborate on **Software development roles,apprenticeship,internship**
+👯 I’m looking to collaborate on Software development roles,apprenticeship,internship or any other collaboration.
 
-👨‍💻 All of my projects will be available at soon
+👨‍💻 All of my projects will be available soon
 
-💬 Ask me about **ReactJs, Bootstrap, Solidity, NFT**
+💬 Ask me about ReactJs, Bootstrap, Solidity
 
 📫 You can reach out to me  at *joshuahochieng@gmail.com*
 
