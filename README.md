@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif"><p align="center" height="50" width="50"></p>
+<img src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif" >
 <h1 align="center">Hi, I'm Joshua Omondi👋</h1>
 <h6 align="center">A passionate front end and Software developer from Nairobi, Kenya with 2 years of experience in a startup environment developing high-performance websites and mobile applications for multiple clients using HTML, CSS and JavaScript.</h6>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuaomondi90&label=Profile%20views&color=0e75b6&style=flat" alt="joshuaomondi90" /> </p>
