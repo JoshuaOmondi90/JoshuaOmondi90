@@ -20,8 +20,7 @@
 <p align="left"><a href="https://twitter.com/joshuah_ochieng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joshuah_ochieng" height="30" width="40"/> 
 <a href="https://linkedin.com/in/www.linkedin.com/in/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/joshuaomondi" height="30" width="40" /></a>
 <a href="https://fb.com/Joshua Smith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Joshua Smith" height="30" width="40" /></a>
-<a href="https://instagram.com/joshuah_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joshuah_official" height="30" width="40" /></a>
-</p>
+<a href="https://instagram.com/joshuah_official" target="blank"><img align="center">
 
 <h3 align="left">Support:</h3>
 
