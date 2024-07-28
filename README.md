@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuaomondi90&label=Profile%20views&color=0e75b6&style=flat" alt="joshuaomondi90" /> </p>
 
 
-🔭 https://wwww.joshuahochieng.netlify.app. Welcome to my portfolio website! This site showcases my skills, projects, and services as a software developer based in Nairobi, Kenya. Designed with a focus on user experience and SEO optimization, this portfolio provides a comprehensive view of my work, expertise, and how to get in touch with me.
+🔭 https://www.joshuahochieng.netlify.app. Welcome to my portfolio website! This site showcases my skills, projects, and services as a software developer based in Nairobi, Kenya. Designed with a focus on user experience and SEO optimization, this portfolio provides a comprehensive view of my work, expertise, and how to get in touch with me.
 
 🌱 I’m currently learning backend Technology i.e Python and its framework Django.
 
